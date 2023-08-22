@@ -1,6 +1,6 @@
 # Find Your Dream Job
 
-Find Your Dream Job is a React-based application designed to help users find and apply for jobs. The app displays featured jobs on the homepage and allows users to view job details, apply for jobs, and filter jobs based on quality. The app also provides a list of applied jobs, which can be accessed on the "applied jobs" page.
+Discover Your Ideal Job is an application built with React, aiming to assist users in locating and submitting applications for their desired positions. The application showcases highlighted job opportunities right on the main page, offering users the capability to delve into comprehensive job descriptions, initiate job applications, and refine their job searches based on their preferences. Furthermore, the application includes a catalog of previously submitted job applications, conveniently accessible via the dedicated "applied jobs" section.
 
 ## Tech Stack
 
@@ -19,6 +19,3 @@ Find Your Dream Job is a React-based application designed to help users find and
 - View a list of applied jobs on the "applied jobs" page.
 - Filter jobs based on quality.
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
